@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Imagem do Codex 9 de set. de 2026, 15_20_05.png" alt="Profissional trabalhando em um notebook, com uma fábrica ao fundo" width="100%" />
+  <img src="https://raw.githubusercontent.com/cleitoneugenio/cleitoneugenio/master/Imagem%20do%20Codex%209%20de%20set.%20de%202026%2C%2015_20_05.png" alt="Profissional trabalhando em um notebook, com uma fábrica ao fundo" width="100%" />
 
   # Cleiton Eugenio
 
