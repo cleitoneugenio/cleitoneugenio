@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./cleiton-robot-hero.png" alt="Profissional trabalhando em um notebook, com uma fábrica ao fundo" width="100%" />
+  <img src="./Imagem do Codex 9 de set. de 2026, 15_20_05.png" alt="Profissional trabalhando em um notebook, com uma fábrica ao fundo" width="100%" />
 
   # Cleiton Eugenio
 
