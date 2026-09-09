@@ -38,3 +38,9 @@ Comecei na gestão de operações, onde aprendi que toda decisão melhora quando
 ## Ferramentas que uso
 
 `Python` · `SQL` · `Excel` · `Power BI` · `ETL` · `React` · `TypeScript` · `Supabase` · `Electron` · `PWA` · `IA e automações`
+
+## Minhas contribuições
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/cleitoneugenio/cleitoneugenio/output/github-contribution-grid-snake.svg" alt="Animação das contribuições no GitHub" />
+</div>
