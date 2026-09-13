@@ -33,7 +33,7 @@ Comecei na gestão de operações, onde aprendi que toda decisão melhora quando
 | --- | --- | --- |
 | [FabricaLog](https://github.com/cleitoneugenio/fabricalog) | Gestão de produção offline-first para indústria cerâmica: ponto, remuneração variável, indicadores e dashboards. | React · PWA · Capacitor · Supabase · Python |
 | [ReciboPro](https://github.com/cleitoneugenio/reciboPro) | Geração de recibos em PDF a partir de planilhas, transformada em aplicativo Windows publicado na Microsoft Store. | Python · Electron · React · TypeScript |
-| [Gerador de Recibos](https://github.com/cleitoneugenio/gerador_recibos) | A automação original que eliminou uma rotina manual de sábado na fábrica. | Python · Excel · PDF |
+| [Olist · Diagnóstico Operacional](https://github.com/cleitoneugenio/olist-delivery-experience-analytics) | Diagnóstico de experiência de entrega em e-commerce: atraso logístico, avaliações, recompra, frete e concentração de vendedores. | Databricks · SQL · Delta Lake · Análise de Dados |
 
 ## Ferramentas que uso
 
